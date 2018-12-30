@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading_text_size">35sp</dimen>
+    <dimen name="item_bottom_margin">5dp</dimen>
+    <dimen name="item_text_size">16sp</dimen>
+</resources>
